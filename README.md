@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hey👋 I'm Nosehad.</h1>
+<h3>Fullstack Developer focused on creating fast solutions.</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&layout=compact&theme=radical" alt="nosehad" /></p>
 
 <!--
 **nosehad/nosehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
