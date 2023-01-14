@@ -1,8 +1,8 @@
 <h1>Hey👋 I'm Nosehad.</h1>
 <h3>Fullstack Developer focused on creating fast solutions.</h3>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nosehad&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nosehad&count_private=true&theme=dark&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&langs_count=5&theme=dark)]()
 
 <!--
 **nosehad/nosehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
