@@ -1,5 +1,4 @@
 <h1>Hey👋 I'm Nosehad.</h1>
-![](https://komarev.com/ghpvc/?username=nosehad&color=green)
 <h3>Fullstack Developer focused on creating fast solutions.</h3>
 <p>🔭 I'm currently working on Swiftense/NDB nosql database solution.</p>
 <p>🤔 Please don't blame me for my unorganized profile, I am new to Github.</p>
