@@ -2,8 +2,8 @@
 <h3>Fullstack Developer focused on creating fast solutions.</h3>
 <p>🔭 I'm currently working on Swiftense/NDB nosql database solution.</p>
 <p>🤔 Please don't blame me for my unorganized profile, I am new to Github.</p>
-                                                                  
-
+                                                             
+[![](https://komarev.com/ghpvc/?username=nosehad&style=flat-square&color=green&label=PROFILE+VIEWS)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nosehad&count_private=true&theme=dracula&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&langs_count=5&theme=dracula)]()
 
