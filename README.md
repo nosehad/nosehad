@@ -8,6 +8,13 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nosehad&count_private=true&theme=dracula&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&langs_count=5&theme=dracula)]()
 
+<h2>Things i wanna code</h2>
+<li>
+  <ul>preproccessor</ul>
+  <ul>compiler</ul>
+  <ul>personal web page</ul>
+</li>
+
 <!--
 **nosehad/nosehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
