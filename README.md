@@ -9,11 +9,11 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nosehad&langs_count=5&theme=dracula)]()
 
 <h2>Things i wanna code</h2>
-<li>
-  <ul>preproccessor</ul>
-  <ul>compiler</ul>
-  <ul>personal web page</ul>
-</li>
+<ul>
+  <li>preproccessor</li>
+  <li>compiler</li>
+  <li>personal web page</li>
+</ul>
 
 <!--
 **nosehad/nosehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
