@@ -12,6 +12,7 @@
 <ul>
   <li>preproccessor</li>
   <li>compiler</li>
+  <li>project manager</li>
   <li>personal web page</li>
 </ul>
 
